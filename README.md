@@ -65,8 +65,7 @@ These milestones represent significant shifts in how software is conceived, deve
 
 You said:
 List and briefly explain the phases of the Software Development Life Cycle?
-ChatGPT said:
-ChatGPT
+
 The Software Development Life Cycle (SDLC) consists of several phases that guide the development process of software from initial concept through to deployment and maintenance. Each phase has specific objectives and deliverables, ensuring a structured approach to software development. Here are the key phases of the SDLC:
 
 1. Planning

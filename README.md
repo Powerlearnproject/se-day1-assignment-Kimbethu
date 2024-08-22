@@ -19,7 +19,6 @@ Identify and describe at least three key milestones in the evolution of software
 2. The development of the first integrated development environment (IDE): The advent of IDEs in the 1980s further revolutionized software engineering. IDEs provide a comprehensive set of tools and features that enhance productivity and  streamline the software development process. They include features like code completion, debugging tools, and version control systems.
 3. The rise of agile methodologies: The emergence of agile methodologies in the 1990s represents another significant milestone in software engineering. Agile methodologies, such as Scrum and Kanban, emphasize collaboration, flexibility, and continuous improvement. They have revolutionized the software development industry by enabling faster and more iterative development cycles.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 
 1. Requirements: Gathering and documenting users needs
@@ -32,7 +31,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Agile methods are iterative approach focused on flexibility , collaboration and responding to change while waterfall methodology is a sequential approach with distinct phases
-
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 A Software Developer is responsible for designing, developing, testing, and maintaining software systems. This involves writing code, debugging, and testing software, as well as collaborating with other developers to identify and fix errors.

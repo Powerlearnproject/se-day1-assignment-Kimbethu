@@ -28,7 +28,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 5. Deployment : releasing the software to the user
 6. Providing maintenance support such as updates
    
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate
 
 Agile methods are iterative approach focused on flexibility , collaboration and responding to change while waterfall methodology is a sequential approach with distinct phases
 
